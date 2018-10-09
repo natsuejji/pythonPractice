@@ -1,2 +1,9 @@
 .vscode
 clipFile
+video
+audio
+data
+predict.csv
+model.npy
+cudnn64_7.dll
+hw0_data.dat
